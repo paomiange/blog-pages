@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-05-30T13:42:43.304Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Dylandi</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>来杭州两周啦</title>
+    <link href="http://yoursite.com/2020/05/30/%E6%9D%A5%E6%9D%AD%E5%B7%9E%E4%B8%A4%E5%91%A8%E5%95%A6/"/>
+    <id>http://yoursite.com/2020/05/30/%E6%9D%A5%E6%9D%AD%E5%B7%9E%E4%B8%A4%E5%91%A8%E5%95%A6/</id>
+    <published>2020-05-30T12:54:55.000Z</published>
+    <updated>2020-05-30T13:42:43.304Z</updated>
+    
+    <content type="html"><![CDATA[<p>来杭州已经两周了，写点东西。</p><p>周一入职的支付宝，这周参加线上的百阿培训，和同事一起吃吃饭，新团队、新环境，主管和带我的师兄人都不错，下周应该也开始有正式的工作内容了，加油吧~ 每晚九点半下班时，是团队第一个走的，已经感受到了未来工作深深的恶意，蚂蚁金服不愧为全互联网加班最严重的的公司 😱。</p><p>如果没有 361 我想阿里对程序员来讲还是不错的，但是现实是，百阿的培训讲师明确的告诉你，第一年，先是努力活下去 ╮(￣▽￣)╭。</p><p>印象深的还有就是百阿培训的时候有个问题——「你怎么看绩效对于个人的意义？」，连麦的三四个人说了巴拉巴拉一大堆，抛出各种专业术语，就是没人提到钱 😂。</p><p>到目前为止，我的生活、工作都没有很明确的东西，二十七岁，一事无成，孑然一身，漂泊异乡，我应该追求什么样的生活？未来用什么养活自己？离 30 岁还有三年，这段时间里好好思考吧。</p><p>最近这几天杭州一直在下雨，有点梅雨的感觉了，一座小而美的城市，努力让自己有所收获吧。٩(๑&gt;◡&lt;๑)۶</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;来杭州已经两周了，写点东西。&lt;/p&gt;
+&lt;p&gt;周一入职的支付宝，这周参加线上的百阿培训，和同事一起吃吃饭，新团队、新环境，主管和带我的师兄人都不错，下周应该也开始有正式的工作内容了，加油吧~ 每晚九点半下班时，是团队第一个走的，已经感受到了未来工作深深的恶意，蚂蚁金服不愧为全
+      
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="随笔" scheme="http://yoursite.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+</feed>
